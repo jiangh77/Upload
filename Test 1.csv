@@ -1,0 +1,6 @@
+entity_id,entity_history_id,corporate_id,account_type,account_description,employee_flag,status,created_date,closed_date,title,first_name,middle_name,last_name,pedigree_name,corporate_name,dob,dod,occupation,income,occupation_category,place_of_birth,nationality,risk,risk_score,last_updated_date,custom_1,custom_2,custom_3,custom_4,custom_5,custom_6,custom_7,custom_8
+1234rr5*,,,individual,888A,,,1800-07-27,,,,,,,,,,,,,,,,,1900-01-01,BBB,,,,,,,
+1234rr5*,,,individual,888A,,,1800-07-27,,,,,,,,,,,,,,,,,1900-01-01,CSX,,,,,,,
+1234rr5*,,,individual,888A,,,1800-07-27,,,AAA,,ZZZ,,,1700-01-01,,,,,,CA,,,1900-01-01,XXX,,,,,,,
+1234rr5*,,,individual,888A,,,1800-07-27,,,BBB,MMM,ZZZ,,,1700-01-01,,,,,,CA,,,1900-01-01,CCC,,,,,,,
+1234rr5*,,,individual,888A,,,1800-07-27,,,,,,,,,,,,,,,,,1900-01-01,CSX,,,,,,,
